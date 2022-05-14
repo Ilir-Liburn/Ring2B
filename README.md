@@ -1,6 +1,6 @@
 # Ring2B
 
-Accelerated Ring VM + language enhancements
+Accelerated Ring 1.17 + language enhancements
 
 1. Run Backup script inside the Ring folder to make backup of the Ring executables, libraries, etc.
 2. Unzip archive matching your operating system to Ring folder (extract here)
