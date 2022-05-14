@@ -7,7 +7,7 @@ Accelerated Ring VM + language enhancements
 3. Run Chmod2B script to set execute permissions (Windows excluded)
 4. Run install.sh in bin directory if necessary (Windows excluded)
 5. Run Backup script again to restore offical Ring files
-6. Repeat steps 2-4 to switch between Ring2B and Ring
+6. Repeat steps 2-5 to switch between Ring2B and Ring
 
 Update:
 
