@@ -9,7 +9,7 @@ Accelerated Ring 1.18 + language enhancements
 5. Run Backup script again to restore offical Ring files
 6. Repeat steps 2-5 to switch between Ring2B and Ring
 
-Ring2B differs from Ring 1.18 by handling references as C++ smart pointers (hence lower reference count in most cases)
+Ring2B differs from Ring 1.18 by handling references as C++ smart pointers (hence lower reference count in most cases).
 Starting from the Ring2C, Ring2C+ will target C++ and Ring2C will target C (fork of the official Ring 1.19 64 bit) 
 
 # Ring2B+
